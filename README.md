@@ -6,3 +6,28 @@ In addition, outside of my job, I have developed several personal projects. My m
 
 I am always looking for new projects to develop and new technologies to learn. 👨‍💻 <br>
 I am passionate about technology and want to continue to improve my skills as a developer. 🔝
+
+
+<p align="center">
+  <a href="https://github.com/mathkruger">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-buscicchio&theme=dracula" alt="stats" />
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/mathkruger?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-buscicchio&langs_count=8&layout=compact&theme=dracula"
+    />
+  </a>
+  
+  <a href="https://github.com/mathkruger?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=francesco-buscicchio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+    />
+  </a>
+</p>
