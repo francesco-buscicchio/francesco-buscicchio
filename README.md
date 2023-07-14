@@ -15,7 +15,7 @@ I am passionate about technology and want to continue to improve my skills as a 
 </p>
 
 <p align="center">
-   <a href="https://github.com/mathkruger?tab=repositories">
+   <a href="https://github.com/francesco-buscicchio?tab=repositories">
     <img
       align="center"
       height="165"
@@ -23,7 +23,7 @@ I am passionate about technology and want to continue to improve my skills as a 
     />
   </a>
   
-  <a href="https://github.com/mathkruger?tab=repositories">
+  <a href="https://github.com/francesco-buscicchio?tab=repositories">
     <img
       align="center"
       height="165"
