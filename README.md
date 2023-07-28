@@ -9,7 +9,7 @@ I am passionate about technology and want to continue to improve my skills as a 
 
 
 <p align="center">
-  <a href="https://github.com/mathkruger">
+  <a href="https://github.com/francesco-buscicchio">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-buscicchio&theme=dracula" alt="stats" />
   </a>
 </p>
